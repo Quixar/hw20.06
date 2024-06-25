@@ -1,0 +1,15 @@
+/Users/quixar/Projects/hw20.06/hw20.06/bin/Debug/net7.0/hw20.06
+/Users/quixar/Projects/hw20.06/hw20.06/bin/Debug/net7.0/hw20.06.deps.json
+/Users/quixar/Projects/hw20.06/hw20.06/bin/Debug/net7.0/hw20.06.runtimeconfig.json
+/Users/quixar/Projects/hw20.06/hw20.06/bin/Debug/net7.0/hw20.06.dll
+/Users/quixar/Projects/hw20.06/hw20.06/bin/Debug/net7.0/hw20.06.pdb
+/Users/quixar/Projects/hw20.06/hw20.06/obj/Debug/net7.0/hw20.06.csproj.AssemblyReference.cache
+/Users/quixar/Projects/hw20.06/hw20.06/obj/Debug/net7.0/hw20.06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quixar/Projects/hw20.06/hw20.06/obj/Debug/net7.0/hw20.06.AssemblyInfoInputs.cache
+/Users/quixar/Projects/hw20.06/hw20.06/obj/Debug/net7.0/hw20.06.AssemblyInfo.cs
+/Users/quixar/Projects/hw20.06/hw20.06/obj/Debug/net7.0/hw20.06.csproj.CoreCompileInputs.cache
+/Users/quixar/Projects/hw20.06/hw20.06/obj/Debug/net7.0/hw20.06.dll
+/Users/quixar/Projects/hw20.06/hw20.06/obj/Debug/net7.0/refint/hw20.06.dll
+/Users/quixar/Projects/hw20.06/hw20.06/obj/Debug/net7.0/hw20.06.pdb
+/Users/quixar/Projects/hw20.06/hw20.06/obj/Debug/net7.0/hw20.06.genruntimeconfig.cache
+/Users/quixar/Projects/hw20.06/hw20.06/obj/Debug/net7.0/ref/hw20.06.dll
